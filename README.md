@@ -13,4 +13,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0053-maximum-subarray) |
+## String
+|  |
+| ------- |
+| [0008-string-to-integer-atoi](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0008-string-to-integer-atoi) |
 <!---LeetCode Topics End-->
