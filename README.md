@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0053-maximum-subarray) |
+| [0875-koko-eating-bananas](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0875-koko-eating-bananas) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -17,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0008-string-to-integer-atoi) |
+## Binary Search
+|  |
+| ------- |
+| [0875-koko-eating-bananas](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0875-koko-eating-bananas) |
 <!---LeetCode Topics End-->
