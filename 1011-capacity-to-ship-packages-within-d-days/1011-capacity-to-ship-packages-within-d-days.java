@@ -24,11 +24,12 @@ class Solution {
         int days=1;
         int load=0;
         for(int i=0;i<weights.length;i++){
-            if(weights[i]+load > mid){
-                days+=1;
-                load=weights[i];
+            if(weights[i]+load <= mid){
+               load+=weights[i];
             }else{
-                load+=weights[i];
+                
+                  days+=1;
+                load=weights[i];
             }
         }
         return days;
