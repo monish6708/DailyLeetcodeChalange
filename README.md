@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0169-majority-element) |
 | [0875-koko-eating-bananas](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0875-koko-eating-bananas) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0031-next-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
