@@ -63,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0009-palindrome-number) |
+## Database
+|  |
+| ------- |
+| [0585-investments-in-2016](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0585-investments-in-2016) |
 <!---LeetCode Topics End-->
