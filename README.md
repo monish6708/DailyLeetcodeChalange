@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0169-majority-element) |
 | [0875-koko-eating-bananas](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0585-investments-in-2016](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0585-investments-in-2016) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
