@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0560-subarray-sum-equals-k) |
 | [0875-koko-eating-bananas](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
 | ------- |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0073-set-matrix-zeroes) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
