@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0169-majority-element) |
 | [0875-koko-eating-bananas](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0875-koko-eating-bananas) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -72,5 +74,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
