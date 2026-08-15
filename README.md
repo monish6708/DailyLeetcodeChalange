@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0560-subarray-sum-equals-k) |
 | [0875-koko-eating-bananas](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -44,19 +45,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0229-majority-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
