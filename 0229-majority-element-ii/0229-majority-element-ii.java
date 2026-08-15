@@ -1,23 +1,34 @@
 class Solution {
     public List<Integer> majorityElement(int[] nums) {
-        int len= nums.length;
-        int div= len/3;
-        List<Integer> list= new ArrayList<>();
-        for(int i=0;i<len;i++){
-            int count=0;
-            if(list.size()==0 || list.get(0)!=nums[i]){
-            for(int j=i;j<len;j++){
-                if(nums[i]==nums[j]){
-                    count++;
-                }
-            }
-            if(count>div){
+        // int len= nums.length;
+        // int div= len/3;
+        // List<Integer> list= new ArrayList<>();
+        // for(int i=0;i<len;i++){
+        //     int count=0;
+        //     if(list.size()==0 || list.get(0)!=nums[i]){
+        //     for(int j=i;j<len;j++){
+        //         if(nums[i]==nums[j]){
+        //             count++;
+        //         }
+        //     }
+        //     if(count>div){
+        //         list.add(nums[i]);
+        //     }
+        //     if(list.size()==2){
+        //         break;
+        //     }
+        // }
+        // }
+        // return list;
+
+        Map<Integer,Integer> map= new HashMap<>();
+        List<Integer> list= new ArrayList<Integer>();
+        int min= (nums.length/3)+1;
+        for(int i=0;i<nums.length;i++){
+            map.put(nums[i], map.getOrDefault(nums[i], 0)+1);
+            if(map.get(nums[i])== min){
                 list.add(nums[i]);
             }
-            if(list.size()==2){
-                break;
-            }
-        }
         }
         return list;
     }
