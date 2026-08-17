@@ -19,6 +19,10 @@ class Solution {
     //   list.addAll(set);
     //     return list;
     // exceed time limit error
+
+
+
+    // used minus of i,j value and defined the two sets
     for(int i=0;i<nums.length;i++){
         Set<Integer> tempset= new HashSet<>();
           for(int j=i+1;j<nums.length;j++){
