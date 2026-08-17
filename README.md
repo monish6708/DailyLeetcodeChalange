@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0585-investments-in-2016](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0585-investments-in-2016) |
 | [0619-biggest-single-number](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0619-biggest-single-number) |
 | [0627-swap-sex-of-employees](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0627-swap-sex-of-employees) |
+| [1075-project-employees-i](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/1075-project-employees-i) |
 ## Matrix
 |  |
 | ------- |
