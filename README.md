@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0619-biggest-single-number](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0619-biggest-single-number) |
 | [0627-swap-sex-of-employees](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0627-swap-sex-of-employees) |
 | [1075-project-employees-i](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/1075-project-employees-i) |
+| [1179-reformat-department-table](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/1179-reformat-department-table) |
 | [1407-top-travellers](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/1407-top-travellers) |
 ## Matrix
 |  |
