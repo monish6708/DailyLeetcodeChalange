@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0008-string-to-integer-atoi) |
+| [0067-add-binary](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0067-add-binary) |
 ## Binary Search
 |  |
 | ------- |
@@ -79,11 +80,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0067-add-binary) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0067-add-binary) |
 ## Database
 |  |
 | ------- |
@@ -107,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0056-merge-intervals) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
