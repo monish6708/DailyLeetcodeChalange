@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1179-reformat-department-table](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/1179-reformat-department-table) |
 | [1211-queries-quality-and-percentage](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/1251-average-selling-price) |
+| [1280-students-and-examinations](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/1280-students-and-examinations) |
 | [1407-top-travellers](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/1407-top-travellers) |
 ## Matrix
 |  |
