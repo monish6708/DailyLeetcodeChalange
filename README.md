@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0008-string-to-integer-atoi) |
 | [0067-add-binary](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0067-add-binary) |
+| [0151-reverse-words-in-a-string](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0151-reverse-words-in-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0031-next-permutation) |
+| [0151-reverse-words-in-a-string](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0151-reverse-words-in-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
