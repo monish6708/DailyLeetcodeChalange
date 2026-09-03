@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0008-string-to-integer-atoi) |
 | [0067-add-binary](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0205-isomorphic-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
