@@ -25,5 +25,8 @@ class Solution {
 
         }
         return true;
+
+        // first check the key and value
+        // second check the key and value as the same value for second time
     }
 }
