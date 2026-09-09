@@ -29,11 +29,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0118-pascals-triangle) |
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0008-string-to-integer-atoi) |
 | [0067-add-binary](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0151-reverse-words-in-a-string) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0031-next-permutation) |
@@ -127,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/1903-largest-odd-number-in-string) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
