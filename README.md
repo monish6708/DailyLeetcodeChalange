@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/0067-add-binary) |
 | [1903-largest-odd-number-in-string](https://github.com/monish6708/DailyLeetcodeChalange/tree/master/1903-largest-odd-number-in-string) |
